@@ -12,7 +12,7 @@
 <p align="center">
   🚀 Full Stack Developer  
   <br />
-  📄 <a href="https://github.com/vinayak-jaybhaye/vinayak-jaybhaye/raw/main/vinayak_jaybhaye_resume.pdf">Resume</a>  
+  📄 <a href="https://github.com/vinayak-jaybhaye/vinayak-jaybhaye/raw/main/vinayak_s_resume.pdf">Resume</a>  
   <br />
   📬 vinayakjaybhaye795@gmail.com
 </p>
