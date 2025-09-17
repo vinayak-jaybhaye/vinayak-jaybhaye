@@ -5,6 +5,7 @@
 <!-- Intro -->
 <p align="center">
   <em>Welcome to my GitHub!</em>
+  <em>EVERY REPO HERE IS A STORY OF ME ARGUING WITH LOGIC, logic usually wins!</em>
 </p>
 
 <h1 align="center">👋 Hi, I'm Vinayak Jaybhaye</h1>
