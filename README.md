@@ -19,28 +19,32 @@ I value clarity in code and prefer solutions that are easy to reason about and m
 
 ## Technologies I Work With
 
-**Languages**
+<details>
+<summary>Primary tools and technologies I use across projects</summary>
+
+### Languages
 - JavaScript, TypeScript  
 - Python  
 - HTML, CSS  
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 - React, Next.js  
 - Node.js, Express  
 - FastAPI  
 
-**Databases**
+### Databases
 - MongoDB  
 - PostgreSQL  
 - MySQL  
 - Redis  
 
-**Tools**
+### Tools
 - Git, GitHub  
 - Docker  
 - Linux  
 
----
+</details>
+
 
 ## Projects
 
